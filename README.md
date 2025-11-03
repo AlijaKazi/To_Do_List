@@ -1,5 +1,6 @@
 # Minimalist Dark-Themed To-Do List
 
+Visit the live site:
 A sleek, modern **dark-themed to-do list** built with HTML, CSS, and JavaScript. Easily add, edit, complete, and remove tasks with a professional minimalist design.
 
 ## Features
